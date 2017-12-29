@@ -1,0 +1,10 @@
+Ingredients:
+ - Sugar
+ - Spice
+ - Everything Nice
+ - Chemical X
+
+Directions:
+  1. Mix the first three together.
+  2. As if by accident, pour Chemical X.
+  3. Sing PPG Theme Song.
